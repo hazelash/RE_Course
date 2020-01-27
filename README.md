@@ -1,18 +1,19 @@
 # RE_Course
 
 ## 1) download virtual machine image
-https://mega.nz/#F!fjgzVApC!20cYsQNgIVAXjjeOnqLxaw
 
 There will be three files.
 
-* Malware-Analysis.7z.001
-* Malware-Analysis.7z.002
-* Malware-Analysis.7z.003
+* [Malware-Analysis.7z.001](https://www.dropbox.com/s/g3vikgjv06dobp7/Malware-Analysis.7z.001?dl=0) (md5: 94af5ef9daeb99bdef0fb99e604710e2)
+* [Malware-Analysis.7z.002](https://www.dropbox.com/s/f4okq3i1wx2q6co/Malware-Analysis.7z.002?dl=0) (md5: bf1192d941041a1e0877539917fa4c2a)
+* [Malware-Analysis.7z.003](https://www.dropbox.com/s/338h16mnii41vto/Malware-Analysis.7z.003?dl=0) (md5: d507b74ba5fbe408ce52ea522969b180)
+
+Mirror link: https://mega.nz/#F!fjgzVApC!20cYsQNgIVAXjjeOnqLxaw
 
 Once all three files are downloaded, they can be unpacked via 7zip/WinZip/WinRar. 
 (right click on .001 file and extract to some folder)
 
-The output is .ova file which can be loaded via VirtualBox. 
+The output is .ova (md5: 5939b51d35f077bfeb3d0f18847724b1) file which can be loaded via VirtualBox. 
 
 ## 2) download virtualbox https://www.virtualbox.org/
 
