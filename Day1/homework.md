@@ -9,8 +9,8 @@ https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-
 * Windows Internals Basics 
 
 https://www.pluralsight.com/courses/windows-internals
-Finish watching [Basic Concepts] part (others are optional)
-10 days free trial available :)
+
+Finish watching [Basic Concepts] part (others are optional) - 10 days free trial available :)
 
 * PE File Format
 
