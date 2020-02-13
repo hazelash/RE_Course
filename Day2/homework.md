@@ -4,18 +4,18 @@
 
 * Edit these fields in hello.exe and try executing it. What happens?
 
-** MZ/PE signatures 
-** TimeDateStamp
-** Section names
-** Section characteristics
+  - MZ/PE signatures 
+  - TimeDateStamp
+  - Section names
+  - Section characteristics
 
 Feel free to try modifying other fields too :)
 
 * Compare hello.exe (from Day1) and hello_na.exe (from Day2)
 
-** What is the offset that’s different?
-** Where does this field belong to within the PE header? 
-** What is the result caused by this difference?
+  - What is the offset that’s different?
+  - Where does this field belong to within the PE header? 
+  - What is the result caused by this difference?
 
 
 ## Advanced
