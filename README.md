@@ -4,13 +4,7 @@
 
 There will be three files.
 
-(DropBox)
-* [Malware-Analysis.7z.001](https://www.dropbox.com/s/g3vikgjv06dobp7/Malware-Analysis.7z.001?dl=0) (md5: 94af5ef9daeb99bdef0fb99e604710e2)
-* [Malware-Analysis.7z.002](https://www.dropbox.com/s/f4okq3i1wx2q6co/Malware-Analysis.7z.002?dl=0) (md5: bf1192d941041a1e0877539917fa4c2a)
-* [Malware-Analysis.7z.003](https://www.dropbox.com/s/338h16mnii41vto/Malware-Analysis.7z.003?dl=0) (md5: d507b74ba5fbe408ce52ea522969b180)
-
-
-Google Drive (Mirror)
+Google Drive
 * [Malware-Analysis.7z.001](https://drive.google.com/open?id=10v8W-_n1JcUc73c2QYlO-jJkuzZ82Dwa) (md5: 94af5ef9daeb99bdef0fb99e604710e2)
 * [Malware-Analysis.7z.002](https://drive.google.com/open?id=1kOzO0Wk22jQnnCxHtafbn31cAOKK8kRt) (md5: bf1192d941041a1e0877539917fa4c2a)
 * [Malware-Analysis.7z.003](https://drive.google.com/open?id=1q77rskXYUqlxn3pVAk0r3UfeRFCQR-nR) (md5: d507b74ba5fbe408ce52ea522969b180)
